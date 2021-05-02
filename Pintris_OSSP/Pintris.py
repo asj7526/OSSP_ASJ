@@ -5,6 +5,8 @@ from random import *
 from pygame.locals import *
 #testtest
 #다시 테스트
+#두번째 테스트
+#세번째 테스트
 # Define
 block_size = 17 # Height, width of single block
 width = 10 # Board width
