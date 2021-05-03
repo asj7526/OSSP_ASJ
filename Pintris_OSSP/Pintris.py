@@ -10,6 +10,7 @@ from pygame.locals import *
 #네번째 깃헙데스크탑 테스트
 #진짜마지막테스트
 #git pull test
+#git pull 2
 # Define
 block_size = 17 # Height, width of single block
 width = 10 # Board width
